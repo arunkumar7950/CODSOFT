@@ -22,4 +22,3 @@ def calculator():
     print(f"The result is: {result}")
 
 calculator()
-
